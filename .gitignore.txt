@@ -1,9 +1,13 @@
-.settings  
-.project 
-.iml 
+.idea  
+*.iml  
+*.ipr  
+*.iws  
+out
 .classpath  
-target	
-*.class  
+.project  
+.settings  
+.target  
+*.class 
  
  
 
